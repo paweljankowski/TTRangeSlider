@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license          = 'MIT'
   s.author           = { "Tom Thorpe" => "code@tomthorpe.co.uk" }
   s.source           = { :git => "https://github.com/TomThorpe/TTRangeSlider.git", :tag => 'v1.0.7'  }
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '13.0'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
